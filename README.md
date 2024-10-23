@@ -4,7 +4,7 @@ I’m a Data Analyst student at Humber College, Proficient in **Python**, **SQL*
 Currently focusing on **Predictive analytics** and **Machine Learning, IBM**. 
 
 <div align="center">
-  <img src="![A8gJ](https://github.com/user-attachments/assets/6475af90-c36b-4db2-b84b-b0c17ce9d115)" width="400" />
+  <img src="https://github.com/Pshahx/Pshahx/blob/main/A8gJ.gif" width="400" />
 </div>
 
 ## 🛠 Skills & Tools
