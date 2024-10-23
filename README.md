@@ -1,7 +1,8 @@
 # Hi, I'm Parshva Shah! 👋
 
 I’m a Data Analyst student at Humber College, Proficient in **Python**, **SQL**, **Avd. Excel**, and **Tableau**.
-Currently focusing on **Predictive analytics** and **Machine Learning, IBM**. 
+
+Currently focusing on **Predictive analytics** and **Machine Learning**. 
 
 <div align="center">
   <img src="https://github.com/Pshahx/Pshahx/blob/main/A8gJ.gif" width="400" />
